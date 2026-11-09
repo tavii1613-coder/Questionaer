@@ -1,0 +1,6 @@
+{
+  "name": "Veloce Workspace",
+  "description": "High-performance productivity web app featuring interactive task boards, markdown project notes, velocity metrics, and focus timer sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
